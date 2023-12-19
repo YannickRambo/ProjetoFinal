@@ -12,6 +12,8 @@ Este projeto foi desenvolvido com o propósito de ser um CRUD com níveis de ace
 
 ![pagina-admin](https://github.com/YannickRambo/ProjetoFinal/assets/103066296/1c3de852-679b-4241-820a-d8cbc4e5cea6)
 
+![editar-usuario](https://github.com/YannickRambo/ProjetoFinal/assets/103066296/273a4e66-a751-460c-acfc-42d157494804)
+
 ![pagina-recados](https://github.com/YannickRambo/ProjetoFinal/assets/103066296/e4c5feb7-270f-47ee-84e3-6c142e4cfe29)
 
 ![pagina-add-recado](https://github.com/YannickRambo/ProjetoFinal/assets/103066296/76d736d2-c5d5-4057-be5b-a818e31d2ab6)
